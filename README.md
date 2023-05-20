@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Agile 시스템 구축
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 Agile 시스템을 따라해보고 직접 만들어보기 위해 만든 프로젝트입니다. 
 
 ## Available Scripts
 
