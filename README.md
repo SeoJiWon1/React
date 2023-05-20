@@ -1,6 +1,6 @@
-# Agile 시스템 구축
+# React code memo
 
-이 프로젝트는 Agile 시스템을 따라해보고 직접 만들어보기 위해 만든 프로젝트입니다. 
+React 관련 code 정리를 위해 만들었습니다. 
 
 ## Available Scripts
 
